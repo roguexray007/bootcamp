@@ -1,0 +1,2 @@
+# bootcamp
+practice go mod
